@@ -1,4 +1,4 @@
-# 2023-TSMC-IT-CareerHack
+# CareerHack AI Parking License Detection OCR model
 2023 TSMC IT CareerHack  智慧停車 APP 車牌影像辨識與車位庫存管理 - 冠軍
 ![image](image.JPG)
 
